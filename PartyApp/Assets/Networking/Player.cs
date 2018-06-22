@@ -9,6 +9,5 @@ namespace Assets.Networking
     public class Player
     {
         public string NickName;
-        NetworkClient client;
     }
 }
